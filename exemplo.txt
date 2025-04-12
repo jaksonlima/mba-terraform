@@ -1,0 +1,16 @@
+Conteúdo: valor vindo do arquivo variables.auto.tfvars
+
+Meu pet: Sr. locally strong herring
+
+Valor booleano: false
+
+Fruits: 3
+
+Name: Igor
+Age: 28
+
+Name: Igor
+Age: 28
+
+Name: Igor
+Age: 28

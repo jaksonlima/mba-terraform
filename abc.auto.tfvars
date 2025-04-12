@@ -1,0 +1,1 @@
+file_content = "valor vindo do arquivo abc.auto.tfvars"

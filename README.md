@@ -16,6 +16,8 @@ docker exec -it terraform sh
 
 ```terraform
 terraform init
+
+terraform init -upgrade
 ```
 
 ### Commands Terraform
@@ -24,4 +26,12 @@ terraform init
 terraform plan
 
 terraform apply
+```
+
+### envs
+
+```terraform
+export TF_VAR_file_content="valor vindo do arquivo export external"
+
+terraform plan -var-file=abc.auto.tfvars
 ```
